@@ -4,22 +4,27 @@ font-family: verdana;
 
 .fp1{
 font-style:italic;
+color:beige;
 }
 
 .fp2{
 font-variant: normal;
+color:aliceblue;
 }
 
 .fp3{
 font-variant: small-caps;
+color:azure;
 }
 
 .fp4{
 font-weight: normal;
+color:blanchedalmond;
 }
 
 .fp5{
 font-weight: lighter;
+color:aqua;
 }
 
 .fp6{
